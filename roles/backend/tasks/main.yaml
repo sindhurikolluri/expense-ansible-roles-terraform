@@ -55,7 +55,7 @@
     name: all
     login_user: root
     login_password: ExpenseApp1
-    login_host: mysql.learningmaniac.fun
+    login_host: mysql-dev.learningmaniac.fun
     target: /app/schema/backend.sql
 
 - name: daemon reload and restart service
